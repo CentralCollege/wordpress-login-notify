@@ -1,0 +1,12 @@
+#adminmenu a:hover{color:#990000!important;text-decoration:none;}
+#adminmenu .wp-submenu a{background-color:#ebebeb!important;}
+#adminmenu .wp-submenu a:hover{background-color:#666666!important;color: #fff!important;}
+#adminmenu .wp-submenu a{background-color:#f1e8e1;}	
+#adminmenu .wp-submenu a:hover{background-color:#d8d1ca;}a, 
+#adminmenu a, #poststuff #edButtonPreview, #poststuff #edButtonHTML, #the-comment-list p.comment-author strong a, #media-upload a.del-link, #media-items a.delete, .plugins a.delete, .ui-tabs-nav a{color:#666;}
+#adminmenu a.menu-top{background-color:#cb2026;color:white!important;display:block;border-top:1px solid #cb2026;border-bottom:1px solid #990000;}
+#adminmenu li.wp-menu-separator{background-color:#cb2026;border-color:#cb2026;}
+#adminmenu div.separator {border-color:#cb2026;}
+#adminmenu .wp-submenu{background-color:#cb2026;}
+
+/*#loginform, #nav, #backtoblog{display:none;}*/
