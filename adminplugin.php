@@ -5,7 +5,7 @@ Description: Gives administrators the option to post a notification on the WordP
 Author: Jacob Oyen '04 - Central College
 Version: 0.1 beta
 Author URI: http://www.central.edu
-Plugin URI: http://www.central.edu/test/
+Plugin URI: https://github.com/CentralCollege/wordpress-login-notify
 */
 
 //Setup the admin page
